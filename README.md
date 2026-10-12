@@ -98,7 +98,7 @@
   inner  join skills_dim on skills_job_dim.skill_id=skills_dim.skill_id
   order by salary_year_avg DESC
   ```
-  ![Top Paying Skills](assets\top_paying_skills.png)
+  ![Top Paying Skills](./assets/top_paying_skills.png)
   *Visualization of skills associated with the top-paying Data Analyst job postings.
 
   
